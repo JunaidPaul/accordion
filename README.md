@@ -1,0 +1,4 @@
+accordion
+=========
+
+Generic accordion
