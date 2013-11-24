@@ -1,0 +1,17 @@
+body{
+	margin: 0px auto;
+}
+#accordion{
+	width: 500px;
+	border: 1px solid black;
+	margin: 0px auto;
+}
+#accordion h2{
+	padding: 5px;
+	margin: 0px;
+	background: #ddd;
+}
+#accordion p{
+	padding: 0px 5px;
+
+}
